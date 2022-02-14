@@ -1,0 +1,40 @@
+[Mon Feb 14 01:01:03 2022] [error] [client 162.158.91.141] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 01:01:03 2022] [error] [client 162.158.91.61] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 01:01:03 2022] [error] [client 162.158.90.14] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Mon Feb 14 01:58:54 2022] [error] [client 172.70.142.84] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 02:02:42 2022] [error] [client 162.158.255.156] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/wp-includes
+[Mon Feb 14 02:02:43 2022] [error] [client 162.158.255.156] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/xmlrpc.php
+[Mon Feb 14 02:02:59 2022] [error] [client 162.158.255.156] ModSecurity: Access denied with code 403 (phase 2). Operator GT matched 0 at IP:flag_b. [file "/etc/modsecurity/locaweb-rules/activated_rules/Locaweb_98_wordpress.conf"] [line "66"] [id "690101"] [msg "WAF Rules : XMLRPC WordPress, 5 auth failures in 120 seconds - blocked for 10 minutes"] [hostname "agenciainnovarte.com.br"] [uri "/blog//xmlrpc.php"] [unique_id "Ygnig7rKmTsAACjeKH4AAAAb"]
+[Mon Feb 14 02:02:59 2022] [error] [client 162.158.255.156] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 02:33:04 2022] [error] [client 162.158.92.14] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 02:38:31 2022] [error] [client 172.70.242.198] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 02:43:30 2022] [error] [client 162.158.187.145] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 02:57:33 2022] [error] [client 172.70.214.26] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 02:57:33 2022] [error] [client 172.70.214.96] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Mon Feb 14 02:57:33 2022] [error] [client 172.70.214.42] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 02:58:30 2022] [error] [client 172.70.174.12] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 03:33:57 2022] [error] [client 172.70.210.42] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 03:33:58 2022] [error] [client 172.70.210.130] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 03:42:04 2022] [error] [client 162.158.222.152] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/adminer.php
+[Mon Feb 14 03:42:10 2022] [error] [client 162.158.222.152] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/admin
+[Mon Feb 14 05:53:35 2022] [error] [client 172.70.147.130] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/wp-includes
+[Mon Feb 14 05:53:37 2022] [error] [client 172.70.147.130] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/xmlrpc.php
+[Mon Feb 14 05:54:02 2022] [error] [client 172.70.147.130] ModSecurity: Access denied with code 403 (phase 2). Operator GT matched 0 at IP:flag_b. [file "/etc/modsecurity/locaweb-rules/activated_rules/Locaweb_98_wordpress.conf"] [line "66"] [id "690101"] [msg "WAF Rules : XMLRPC WordPress, 5 auth failures in 120 seconds - blocked for 10 minutes"] [hostname "agenciainnovarte.com.br"] [uri "/blog//xmlrpc.php"] [unique_id "YgoYqrrKmTsAAGUHXQMAAAAO"]
+[Mon Feb 14 05:54:02 2022] [error] [client 172.70.147.130] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 10:02:50 2022] [error] [client 172.68.24.234] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Mon Feb 14 10:02:50 2022] [error] [client 172.68.26.90] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 10:02:50 2022] [error] [client 172.68.25.31] mod_mime_magic: invalid type 0 in mconvert()., referer: https://www.agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 10:12:19 2022] [error] [client 172.70.250.238] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 10:24:39 2022] [error] [client 108.162.246.123] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 10:27:08 2022] [error] [client 172.68.24.40] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/favicon.ico, referer: https://www.agenciainnovarte.com.br/assets/img/portfolio/villas-vitoria-site.jpg
+[Mon Feb 14 10:27:33 2022] [error] [client 172.69.3.213] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Mon Feb 14 10:27:33 2022] [error] [client 172.69.3.249] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 10:27:33 2022] [error] [client 172.69.3.237] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 10:38:26 2022] [error] [client 162.158.78.8] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Mon Feb 14 10:59:11 2022] [error] [client 172.68.26.90] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 10:59:11 2022] [error] [client 172.68.27.83] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Mon Feb 14 10:59:11 2022] [error] [client 172.68.24.48] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 11:07:30 2022] [error] [client 172.68.27.125] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/favicon.ico, referer: https://agenciainnovarte.com.br/blog/wp-login.php?redirect_to=https%3A%2F%2Fagenciainnovarte.com.br%2Fblog%2Fwp-admin%2F&reauth=1
+[Mon Feb 14 11:09:09 2022] [error] [client 172.68.24.204] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/blog/wp-content/themes/template-innovarte/assets/vendor/boxicons/css/boxicons.min.css
+[Mon Feb 14 11:09:09 2022] [error] [client 172.68.24.254] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/blog/wp-content/themes/template-innovarte/assets/vendor/icofont/icofont.min.css
+[Mon Feb 14 11:09:12 2022] [error] [client 172.68.25.163] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/blog/wp-content/themes/template-innovarte/assets/vendor/remixicon/remixicon.css

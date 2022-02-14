@@ -1,0 +1,45 @@
+[Sun Feb 13 01:16:58 2022] [error] [client 172.70.250.238] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 01:16:59 2022] [error] [client 172.70.242.134] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 01:28:48 2022] [error] [client 172.70.242.134] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 01:55:33 2022] [error] [client 108.162.219.162] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 02:55:08 2022] [error] [client 172.70.92.212] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 04:10:16 2022] [error] [client 172.70.250.238] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 04:30:19 2022] [error] [client 108.162.229.216] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 04:35:16 2022] [error] [client 108.162.229.30] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 05:41:13 2022] [error] [client 172.70.142.84] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 06:56:46 2022] [error] [client 162.158.92.14] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 07:49:42 2022] [error] [client 172.70.242.134] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 08:48:44 2022] [error] [client 172.70.242.134] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 09:48:46 2022] [error] [client 172.70.250.238] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 11:03:52 2022] [error] [client 172.70.86.33] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/wp-includes
+[Sun Feb 13 11:03:53 2022] [error] [client 172.70.86.33] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/xmlrpc.php
+[Sun Feb 13 11:04:15 2022] [error] [client 172.70.86.33] ModSecurity: Access denied with code 403 (phase 2). Operator GT matched 0 at IP:flag_b. [file "/etc/modsecurity/locaweb-rules/activated_rules/Locaweb_98_wordpress.conf"] [line "66"] [id "690101"] [msg "WAF Rules : XMLRPC WordPress, 5 auth failures in 120 seconds - blocked for 10 minutes"] [hostname "agenciainnovarte.com.br"] [uri "/blog//xmlrpc.php"] [unique_id "YgkP37rKmTsAAEj4VPkAAAA5"]
+[Sun Feb 13 11:04:15 2022] [error] [client 172.70.86.33] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 12:12:53 2022] [error] [client 108.162.245.140] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 12:45:51 2022] [error] [client 141.101.69.173] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Sun Feb 13 12:45:51 2022] [error] [client 162.158.50.5] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Sun Feb 13 12:45:51 2022] [error] [client 141.101.69.33] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Sun Feb 13 12:46:32 2022] [error] [client 172.70.174.12] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 13:14:39 2022] [error] [client 172.70.242.134] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 13:16:32 2022] [error] [client 172.70.174.226] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 14:53:38 2022] [error] [client 172.70.91.29] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Sun Feb 13 14:53:39 2022] [error] [client 172.70.90.208] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Sun Feb 13 14:53:39 2022] [error] [client 172.70.90.118] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Sun Feb 13 15:47:14 2022] [error] [client 162.158.92.14] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 16:28:27 2022] [error] [client 172.68.133.184] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Sun Feb 13 16:28:27 2022] [error] [client 172.68.133.236] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Sun Feb 13 16:28:27 2022] [error] [client 162.158.255.202] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Sun Feb 13 16:30:07 2022] [error] [client 172.69.33.58] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/boxicons/css/boxicons.min.css
+[Sun Feb 13 16:30:07 2022] [error] [client 172.69.33.242] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/remixicon/remixicon.css
+[Sun Feb 13 16:30:07 2022] [error] [client 172.69.33.48] mod_mime_magic: invalid type 0 in mconvert()., referer: https://agenciainnovarte.com.br/assets/vendor/icofont/icofont.min.css
+[Sun Feb 13 16:43:18 2022] [error] [client 162.158.103.215] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 18:09:10 2022] [error] [client 108.162.219.152] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 18:22:58 2022] [error] [client 162.158.92.14] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Sun Feb 13 18:33:04 2022] [error] [client 172.70.93.48] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 19:48:17 2022] [error] [client 108.162.245.176] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/favicon.ico, referer: http://agenciainnovarte.com.br/favicon.ico
+[Sun Feb 13 20:53:55 2022] [error] [client 172.70.93.48] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 23:54:13 2022] [error] [client 172.70.246.184] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 23:54:14 2022] [error] [client 172.70.242.134] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/robots.txt
+[Sun Feb 13 23:57:09 2022] [error] [client 162.158.92.14] (2)No such file or directory: cannot access type map file: /home/httpd/error/noindex.html.var
+[Mon Feb 14 00:12:59 2022] [error] [client 172.68.132.21] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/wp-includes
+[Mon Feb 14 00:12:59 2022] [error] [client 172.68.132.21] File does not exist: /home/storage/f/68/7d/agenciainnovarte1/public_html/xmlrpc.php
